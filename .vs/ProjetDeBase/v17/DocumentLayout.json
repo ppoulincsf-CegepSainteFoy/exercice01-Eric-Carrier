@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEC Informatique C\u00E9gep de Ste-Foy\\Session #3.5 E-2025\\Algorithmique avanc\u00E9e\\exercice01-Eric-Carrier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA6CD7-8A12-4610-A9D1-8906E18B9AFB}|Launcher\\Launcher.vcxproj|C:\\DEC Informatique C\u00E9gep de Ste-Foy\\Session #3.5 E-2025\\Algorithmique avanc\u00E9e\\exercice01-Eric-Carrier\\Launcher\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8EA6CD7-8A12-4610-A9D1-8906E18B9AFB}|Launcher\\Launcher.vcxproj|solutionrelative:Launcher\\Launcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.cpp",
+              "DocumentMoniker": "C:\\DEC Informatique C\u00E9gep de Ste-Foy\\Session #3.5 E-2025\\Algorithmique avanc\u00E9e\\exercice01-Eric-Carrier\\Launcher\\Launcher.cpp",
+              "RelativeDocumentMoniker": "Launcher\\Launcher.cpp",
+              "ToolTip": "C:\\DEC Informatique C\u00E9gep de Ste-Foy\\Session #3.5 E-2025\\Algorithmique avanc\u00E9e\\exercice01-Eric-Carrier\\Launcher\\Launcher.cpp",
+              "RelativeToolTip": "Launcher\\Launcher.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T15:41:59.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
